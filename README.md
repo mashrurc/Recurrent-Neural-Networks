@@ -15,3 +15,4 @@ Todo:
 - deploying program with newer data (up to June 2019) and testing performance
 - deploying on smaller priced stocks with less volatility (FB, Sprint, Tesla)
 - changing epochs (currently 100 iterations until full train)
+ 
